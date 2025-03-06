@@ -44,7 +44,5 @@ I like discovering new thing about mobile development, Kotlin, KMM, KMP or Jetpa
 
 <p align="center">
   <a href="mailto:amaury.delassus@gmail.com"><img src="https://img.shields.io/badge/-amaury.delassus@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/amaury_delassus"><img src="https://img.shields.io/badge/-Amaury%20Delassus-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>
-  <a href="https://androiddev.social/@ademaus"><img src="https://img.shields.io/badge/-Amaury%20Delassus-0047B5?style=flat&logo=Mastodon&logoColor=white"/></a>
   <a href="https://linkedin.com/in/amaury-delassus"><img src="https://img.shields.io/badge/-Amaury%20Delassus-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
