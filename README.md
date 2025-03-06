@@ -23,8 +23,6 @@ I like discovering new thing about mobile development, Kotlin, KMM, KMP or Jetpa
 
 ![Kotlin](https://img.shields.io/badge/kotlin-6638e2?logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/C%23-6638e2?logo=.net&logoColor=ffdd54)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
