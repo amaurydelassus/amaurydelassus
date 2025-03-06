@@ -18,8 +18,6 @@ I'm Amaury, an Android tech at @Worldline.\
 I like discovering new thing about mobile development, Kotlin, KMM, KMP or Jetpack Compose. 🤓\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 ✉️ &nbsp;You can shoot me an email at amaury.delassus@gmail.com !\
-📄 &nbsp;Please have a look at my [Résumé](https://github.com/amaurydelassus/amaurydelassus/blob/main/docs/CV_Amaury_Delassus.pdf) for more details about me. I'm open to
-feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
 
